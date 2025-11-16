@@ -7,46 +7,54 @@ import "slick-carousel/slick/slick-theme.css";
 
 export default function ItemCards({ itens }) {
   const settings = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    autoplay: true,
-    autoplaySpeed: 2500,
-    arrows: false,
-    slidesToShow: 3,
-    slidesToScroll: 1,
+  dots: true,
+  infinite: true,
+  speed: 500,
+  autoplay: true,
+  autoplaySpeed: 2500,
+  arrows: false,
+  slidesToShow: 3,
+  slidesToScroll: 1,
 
-    responsive: [
-      { breakpoint: 1024, settings: { slidesToShow: 1 } },
-      { breakpoint: 600, settings: { slidesToShow: 1 } },
-    ],
-  };
+  responsive: [
+    {
+      breakpoint: 900, // tablets e celulares
+      settings: {
+        slidesToShow: 1,
+      },
+    },
+    {
+      breakpoint: 600, // celulares pequenos
+      settings: {
+        slidesToShow: 1,
+      },
+    },
+  ],
+};
+
 
   return (
-    <Box sx={{ width: "100%", maxWidth: 1200, margin: "0 auto" }}>
+    <Box sx={{ width: "100%", maxWidth: 1200, mx: "auto" }}>
 
-      {/* 🔥 Slick Dots personalizados: risquinhos brancos */}
+      {/* Estilização dos dots do Slick */}
       <style>{`
         .slick-dots {
-          bottom: -10px;
+          bottom: -12px;
         }
-
         .slick-dots li {
           width: 30px;
           margin: 0 4px;
         }
-
         .slick-dots li button:before {
           content: "";
           width: 30px;
           height: 4px;
           background: white;
           border-radius: 4px;
-          opacity: 0.3; /* não ativo */
+          opacity: 0.3;
         }
-
         .slick-dots li.slick-active button:before {
-          opacity: 1; /* ativo */
+          opacity: 1;
           background: white;
         }
       `}</style>
@@ -56,7 +64,7 @@ export default function ItemCards({ itens }) {
           const total = item.total_valor_vendido.reduce((a, b) => a + b, 0);
 
           return (
-            <Box key={index} sx={{ padding: 2 }}>
+            <Box key={index} sx={{ p: 2 }}>
               <Card
                 sx={{
                   height: "100%",
