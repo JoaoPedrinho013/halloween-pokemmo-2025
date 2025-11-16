@@ -98,8 +98,8 @@
     <td>Mysterious Dusk Ball</td>
     <td>119</td>
     <td>¥49.533</td>
-    <td>—</td>
-    <td>—</td>
+    <td>¥46.000</td>
+    <td>¥61.000</td>
     <td>¥5.729.400</td>
   </tr>
 
@@ -107,26 +107,26 @@
     <td>Special Candy</td>
     <td>68</td>
     <td>¥50.150</td>
-    <td>—</td>
-    <td>—</td>
+    <td>¥34.000</td>
+    <td>¥69.000</td>
     <td>¥3.072.100</td>
   </tr>
 
   <tr>
     <td>Spooky Candy</td>
     <td>48</td>
-    <td>—</td>
-    <td>—</td>
-    <td>—</td>
+    <td>¥17.475</td>
+    <td>¥13.400</td>
+    <td>¥23.000</td>
     <td>¥836.100</td>
   </tr>
 
   <tr>
     <td>Goodie Bag</td>
     <td>30</td>
-    <td>—</td>
-    <td>—</td>
-    <td>—</td>
+    <td>¥11.060</td>
+    <td>¥10.000</td>
+    <td>¥13.000</td>
     <td>¥347.900</td>
   </tr>
 
