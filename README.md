@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/React-2025-blue?logo=react&style=for-the-badge">
   <img src="https://img.shields.io/badge/Material%20UI-MUI-007FFF?logo=mui&style=for-the-badge">
   <img src="https://img.shields.io/badge/MUI%20Icons-Ready-512DA8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Halloween%20Theme-Active-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Responsive-100%25-success?style=for-the-badge">
 </p>
 
