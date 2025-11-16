@@ -161,12 +161,13 @@
 
 <h2>Links Importantes</h2>
 <ul>
-  <li><a href="https://github.com/" target="blank">GitHub</a></li>
-  <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
-  <li><a href="https://wa.me/">WhatsApp</a></li>
-  <li><a href="https://forums.pokemmo.com/">Fórum do Evento</a></li>
-  <li><a href="https://pokemmo.com/downloads/">Download oficial do PokeMMO</a></li>
+  <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+  <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+  <li><a href="https://wa.me/" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
+  <li><a href="https://forums.pokemmo.com/" target="_blank" rel="noopener noreferrer">Fórum do Evento</a></li>
+  <li><a href="https://pokemmo.com/downloads/" target="_blank" rel="noopener noreferrer">Download oficial do PokeMMO</a></li>
 </ul>
+
 
 <hr>
 
