@@ -7,36 +7,33 @@ import "slick-carousel/slick/slick-theme.css";
 
 export default function ItemCards({ itens }) {
   const settings = {
-  dots: true,
-  infinite: true,
-  speed: 500,
-  autoplay: true,
-  autoplaySpeed: 2500,
-  arrows: false,
-  slidesToShow: 3,
-  slidesToScroll: 1,
-
-  responsive: [
-    {
-      breakpoint: 900, // tablets e celulares
-      settings: {
-        slidesToShow: 1,
-      },
-    },
-    {
-      breakpoint: 600, // celulares pequenos
-      settings: {
-        slidesToShow: 1,
-      },
-    },
-  ],
-};
-
+    dots: true,
+    infinite: true,
+    speed: 500,
+    autoplay: true,
+    autoplaySpeed: 2500,
+    arrows: false,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    // ❌ Removido: nada de responsividade
+  };
 
   return (
-    <Box sx={{ width: "100%", maxWidth: 1200, mx: "auto" }}>
+    <Box
+      sx={{
+        width: "100%",
+        maxWidth: 1200,
+        mx: "auto",
 
-      {/* Estilização dos dots do Slick */}
+        // ⛔ escondido em telas menores que 900px
+        display: {
+          xs: "none",
+          sm: "none",
+          md: "block", // só mostra em md pra cima
+        },
+      }}
+    >
+      {/* Estilo dos dots */}
       <style>{`
         .slick-dots {
           bottom: -12px;
