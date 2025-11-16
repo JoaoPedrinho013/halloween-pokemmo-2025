@@ -1,192 +1,140 @@
-🎃 Halloween PokeMMO 2025 – Página Oficial do Evento
-
-Bem-vindo ao repositório do Halloween PokeMMO 2025, um site temático criado para apresentar meus resultados no evento de Halloween, incluindo estatísticas de itens, totais vendidos, quantidade farmada, além de links importantes como redes sociais, fórum do evento e download do PokeMMO.
-
-O site foi projetado com foco em visual moderno, tema roxo/laranja, tabela responsiva e componentes organizados para desktop e mobile.
-
-📌 Funcionalidades do Site
-🟣 1. Página Inicial / Hero Section
-
-Logo temático com sprite do Pumpking.
-
-Título estilizado “Halloween PokeMMO 2025”.
-
-Subtítulo com descrição do propósito da página.
-
-Botão Baixar PokeMMO com efeitos de hover.
-
-Ícones de:
-
-GitHub
-
-LinkedIn
-
-WhatsApp
-
-Fórum do evento
-
-🟣 2. Tabela Completa do Farm (Desktop)
-
-Exibe todos os itens farmados durante o evento:
-
-Pumpkin Goodie Bag
-
-Mysterious Dusk Ball
-
-Special Candy
-
-Spooky Candy
-
-Goodie Bag
-
-Informações mostradas:
-
-Total de itens
-
-Média de venda
-
-Mínimo
-
-Máximo
-
-Total Vendido
-
-Linha especial de TOTAL GERAL com somatório de tudo.
-
-📸 Espaço para print da tabela (versão Desktop):
-
-Cole aqui a imagem da tabela completa em desktop
-
-📱 Responsividade (Mobile)
-
-A versão mobile foi cuidadosamente adaptada para manter legibilidade e estilo.
-
-🟠 1. Cards Individuais
-
-Cada item é mostrado em um card separado contendo:
-
-Total
-
-Média
-
-Min
-
-Max
-
-Total Vendido
-
-🟠 2. Card de Total Geral
-
-Mostra:
-
-Quantidade total de itens (1.067)
-
-Total geral vendido (¥27.229.600)
-
-🟠 3. Hero otimizado
-
-Sprite menor
-
-Título centralizado
-
-Botão reposicionado e responsivo
-
-📸 Espaço para print da página inicial (versão Mobile):
-
-Cole aqui a imagem do Hero Section em mobile
-
-📸 Espaço para prints dos cards individuais (versão Mobile):
-
-Cole aqui a imagem dos cards de cada item no mobile
-
-📸 Espaço para print do Total Geral (versão Mobile):
-
-Cole aqui a imagem da seção de total geral (mobile)
-
-📊 Dados Apresentados no Site
-🎃 Pumpkin Goodie Bag
-
-Total: 802
-
-Média: ¥22.200
-
-Min: ¥18.000
-
-Max: ¥37.000
-
-Total vendido: ¥17.244.100
-
-🌑 Mysterious Dusk Ball
-
-Total: 119
-
-Média: ¥49.533
-
-Total vendido: ¥5.729.400
-
-🍬 Special Candy
-
-Total: 68
-
-Média: ¥50.150
-
-Total vendido: ¥3.072.100
-
-🍭 Spooky Candy
-
-Total: 48
-
-Total vendido: ¥836.100
-
-🧧 Goodie Bag
-
-Total: 30
-
-Total vendido: ¥347.900
-
-🟪 TOTAL GERAL
-
-1.067 itens farmados
-
-¥27.229.600 acumulados
-
-🛠️ Tecnologias Utilizadas
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Layout 100% responsivo
-
-Tema visual inspirado no Halloween do PokeMMO
-
-🔗 Links Importantes (presentes no site)
-
-GitHub
-
-LinkedIn
-
-WhatsApp
-
-Fórum do Evento
-
-Download oficial do PokeMMO
-
-🎨 Identidade Visual
-
-O site segue um estilo:
-
-Dark theme
-
-Gradientes roxo → laranja
-
-Ícones brilhantes
-
-Sprites animados
-
-Cartões com bordas arredondadas
-
-Fontes com destaque para títulos
-
+<h1 align="center">🎃 Halloween PokeMMO 2025 – Página Oficial do Evento</h1>
+
+<p align="center">
+  Bem-vindo ao repositório do <b>Halloween PokeMMO 2025</b>, um site temático criado para apresentar meus resultados no evento de Halloween.<br>
+  Inclui estatísticas de itens, totais vendidos, quantidade farmada e links úteis como redes sociais, fórum e download do PokeMMO.
+</p>
+
+<hr>
+
+<h2>📌 Funcionalidades do Site</h2>
+
+<h3>🟣 1. Página Inicial / Hero Section</h3>
+<ul>
+  <li>Logo temático com sprite do Pumpking</li>
+  <li>Título estilizado “Halloween PokeMMO 2025”</li>
+  <li>Subtítulo explicativo</li>
+  <li>Botão <b>Baixar PokeMMO</b> com efeitos de hover</li>
+  <li>Ícones de GitHub, LinkedIn, WhatsApp e Fórum do Evento</li>
+</ul>
+
+<br>
+
+<h3>🟣 2. Tabela Completa do Farm (Desktop)</h3>
+<ul>
+  <li>Exibe todos os itens farmados:</li>
+  <ul>
+    <li>Pumpkin Goodie Bag</li>
+    <li>Mysterious Dusk Ball</li>
+    <li>Special Candy</li>
+    <li>Spooky Candy</li>
+    <li>Goodie Bag</li>
+  </ul>
+  <li>Mostra total, média, mínimo, máximo e total vendido</li>
+  <li>Linha especial de <b>TOTAL GERAL</b></li>
+</ul>
+
+<h3 align="center">📸 Print da tabela (Desktop)</h3>
+<p align="center">👉 Cole aqui a imagem da tabela completa</p>
+
+<hr>
+
+<h2>📱 Responsividade (Mobile)</h2>
+
+<h3>🟠 1. Cards Individuais</h3>
+<p>Cada item aparece em seu próprio card contendo total, média, min, max e total vendido.</p>
+
+<h3>🟠 2. Card de Total Geral</h3>
+<p>Inclui:</p>
+<ul>
+  <li>Quantidade total de itens: <b>1.067</b></li>
+  <li>Total vendido: <b>¥27.229.600</b></li>
+</ul>
+
+<h3>🟠 3. Hero otimizado</h3>
+<p>Sprite menor, título centralizado e botão responsivo</p>
+
+<h3 align="center">📸 Print do Hero (Mobile)</h3>
+<p align="center">👉 Cole aqui a imagem do Hero Mobile</p>
+
+<h3 align="center">📸 Prints dos Cards (Mobile)</h3>
+<p align="center">👉 Cole aqui os prints dos cards</p>
+
+<h3 align="center">📸 Print do Total Geral (Mobile)</h3>
+<p align="center">👉 Cole aqui a imagem do total geral mobile</p>
+
+<hr>
+
+<h2>📊 Dados Apresentados no Site</h2>
+
+<h3>🎃 Pumpkin Goodie Bag</h3>
+<ul>
+  <li>Total: <b>802</b></li>
+  <li>Média: ¥22.200</li>
+  <li>Min: ¥18.000 | Max: ¥37.000</li>
+  <li>Total vendido: <b>¥17.244.100</b></li>
+</ul>
+
+<h3>🌑 Mysterious Dusk Ball</h3>
+<ul>
+  <li>Total: <b>119</b></li>
+  <li>Média: ¥49.533</li>
+  <li>Total vendido: <b>¥5.729.400</b></li>
+</ul>
+
+<h3>🍬 Special Candy</h3>
+<ul>
+  <li>Total: <b>68</b></li>
+  <li>Média: ¥50.150</li>
+  <li>Total vendido: <b>¥3.072.100</b></li>
+</ul>
+
+<h3>🍭 Spooky Candy</h3>
+<ul>
+  <li>Total: <b>48</b></li>
+  <li>Total vendido: ¥836.100</li>
+</ul>
+
+<h3>🧧 Goodie Bag</h3>
+<ul>
+  <li>Total: <b>30</b></li>
+  <li>Total vendido: ¥347.900</li>
+</ul>
+
+<h2>🟪 TOTAL GERAL</h2>
+<ul>
+  <li><b>1.067</b> itens farmados</li>
+  <li><b>¥27.229.600</b> acumulados</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Tecnologias Utilizadas</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Layout 100% responsivo</li>
+  <li>Tema visual inspirado no Halloween do PokeMMO</li>
+</ul>
+
+<h2>🔗 Links Importantes</h2>
+<ul>
+  <li>GitHub</li>
+  <li>LinkedIn</li>
+  <li>WhatsApp</li>
+  <li>Fórum do Evento</li>
+  <li>Download oficial do PokeMMO</li>
+</ul>
+
+<hr>
+
+<h2>🎨 Identidade Visual</h2>
+<ul>
+  <li>Dark theme</li>
+  <li>Gradientes roxo → laranja</li>
+  <li>Ícones brilhantes</li>
+  <li>Sprites animados</li>
+  <li>Cartões com bordas arredondadas</li>
+  <li>Fontes destacadas para títulos</li>
+</ul>
