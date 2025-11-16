@@ -161,10 +161,10 @@
 
 <h2>Links Importantes</h2>
 <ul>
-  <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-  <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-  <li><a href="https://wa.me/" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
-  <li><a href="https://forums.pokemmo.com/" target="_blank" rel="noopener noreferrer">Fórum do Evento</a></li>
+  <li><a href="https://github.com/JoaoPedrinho013/halloween-pokemmo-2025" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+  <li><a href="https://www.linkedin.com/in/joao-pedro-428b43271" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+  <li><a href="https://wa.me/+5513981309727" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
+  <li><a href="https://forums.pokemmo.com/index.php?/topic/192933-changelog-halloween-2025" target="_blank" rel="noopener noreferrer">Fórum do Evento</a></li>
   <li><a href="https://pokemmo.com/downloads/" target="_blank" rel="noopener noreferrer">Download oficial do PokeMMO</a></li>
 </ul>
 
