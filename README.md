@@ -161,7 +161,7 @@
 
 <h2>Links Importantes</h2>
 <ul>
-  <li><a href="https://github.com/">GitHub</a></li>
+  <li><a href="https://github.com/" target="blank">GitHub</a></li>
   <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
   <li><a href="https://wa.me/">WhatsApp</a></li>
   <li><a href="https://forums.pokemmo.com/">Fórum do Evento</a></li>
