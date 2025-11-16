@@ -62,13 +62,13 @@
 <p>Versão adaptada com sprite menor, título ajustado e botão responsivo.</p>
 
 <h3 align="center">Print do Hero (Mobile)</h3>
-<p align="center">Cole aqui a imagem do Hero Mobile</p>
+<img src="public/images/site/inicio-cards-mobile.png" alt="Print da tabela" width="700">
 
 <h3 align="center">Prints dos Cards (Mobile)</h3>
-<p align="center">Cole aqui os prints dos cards</p>
+<img src="public/images/site/cards-mobile.png" alt="Print da tabela" width="700">
 
 <h3 align="center">Print do Total Geral (Mobile)</h3>
-<p align="center">Cole aqui o print do card de total geral</p>
+<img src="public/images/site/fim-cards-mobile.png" alt="Print da tabela" width="700">
 
 <hr>
 
