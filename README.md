@@ -71,9 +71,9 @@
 
 <hr>
 
-<h2>Dados do Evento</h2>
 
 <div align="center">
+<h2>Dados do Evento</h2>
 
 <table>
   <tr>
