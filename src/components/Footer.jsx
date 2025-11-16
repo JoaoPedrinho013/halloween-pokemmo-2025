@@ -39,7 +39,7 @@ export default function Footer() {
           >
             <Box
               component="img"
-              src="/gifs/pumpking.gif"
+              src={`${import.meta.env.BASE_URL}gifs/pumpking.gif`}
               alt="Pumpkin"
               sx={{
                 width: { xs: 150, sm: 200, md: 300 },

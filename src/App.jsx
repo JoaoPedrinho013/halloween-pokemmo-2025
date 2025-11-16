@@ -37,7 +37,7 @@ export default function App() {
               >
                 <Box
                   component="img"
-                  src="/gifs/pumpking.gif"
+                  src={`${import.meta.env.BASE_URL}gifs/pumpking.gif`}
                   alt="Pumpkin"
                   sx={{
                     width: { xs: 35, sm: 45, md: 60 },
@@ -59,7 +59,7 @@ export default function App() {
                 </Typography>
                 <Box
                   component="img"
-                  src="/gifs/pumpking.gif"
+                  src={`${import.meta.env.BASE_URL}gifs/pumpking.gif`}
                   alt="Pumpkin"
                   sx={{
                     width: { xs: 35, sm: 45, md: 60 },
