@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-2025-blue?logo=react&style=for-the-badge">
   <img src="https://img.shields.io/badge/Material%20UI-MUI-007FFF?logo=mui&style=for-the-badge">
-  <img src="https://img.shields.io/badge/MUI%20Icons-Ready-512DA8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Halloween%20Theme-Active-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Responsive-100%25-success?style=for-the-badge">
 </p>
 
@@ -73,6 +73,8 @@
 
 <h2>Dados do Evento</h2>
 
+<div align="center">
+
 <table>
   <tr>
     <th>Item</th>
@@ -82,6 +84,7 @@
     <th>Máx</th>
     <th>Total Vendido</th>
   </tr>
+
   <tr>
     <td>Pumpkin Goodie Bag</td>
     <td>802</td>
@@ -90,47 +93,55 @@
     <td>¥37.000</td>
     <td>¥17.244.100</td>
   </tr>
+
   <tr>
     <td>Mysterious Dusk Ball</td>
     <td>119</td>
     <td>¥49.533</td>
-    <td>-</td>
-    <td>-</td>
+    <td>—</td>
+    <td>—</td>
     <td>¥5.729.400</td>
   </tr>
+
   <tr>
     <td>Special Candy</td>
     <td>68</td>
     <td>¥50.150</td>
-    <td>-</td>
-    <td>-</td>
+    <td>—</td>
+    <td>—</td>
     <td>¥3.072.100</td>
   </tr>
+
   <tr>
     <td>Spooky Candy</td>
     <td>48</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
     <td>¥836.100</td>
   </tr>
+
   <tr>
     <td>Goodie Bag</td>
     <td>30</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
     <td>¥347.900</td>
   </tr>
+
   <tr>
     <td><b>Total Geral</b></td>
     <td><b>1.067</b></td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
     <td><b>¥27.229.600</b></td>
   </tr>
 </table>
+
+</div>
+
 
 <hr>
 
