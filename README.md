@@ -41,7 +41,8 @@
 </ul>
 
 <h3 align="center">Print da tabela (Desktop)</h3>
-<p align="center">Cole aqui a imagem da tabela completa</p>
+<img src="public/images/site/site-desktop.png" alt="Print da tabela" width="700">
+
 
 <hr>
 
