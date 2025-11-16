@@ -12,11 +12,15 @@
   Inclui estatísticas completas, total vendido, quantidade farmada, prints e informações gerais sobre o farm.
 </p>
 
+<style>
+  a { text-decoration: none; }
+</style>
+
 <hr>
 
 <h2>Funcionalidades do Site</h2>
 
-<h3>1. Página Inicial / Hero Section</h3>
+<h3>1. Página Inicial (Desktop)</h3>
 <ul>
   <li>Logo temático com sprite do Pumpking</li>
   <li>Título estilizado "Halloween PokeMMO 2025"</li>
@@ -40,41 +44,45 @@
   <li>Slide adicional com informações gerais do farm</li>
 </ul>
 
-<h3 align="center">Print da tabela (Desktop)</h3>
-<img src="public/images/site/site-desktop.png" alt="Print da tabela" width="700">
-
+<h3 align="center">Print da Tabela (Desktop)</h3>
+<p align="center">
+  <img src="public/images/site/site-desktop.png" alt="Print da tabela desktop" width="700">
+</p>
 
 <hr>
 
 <h2>Responsividade (Mobile)</h2>
 
-<h3>1. Cards Individuais</h3>
+<h3>1. Página Inicial (Mobile)</h3>
+<p>Versão adaptada com sprite menor, título ajustado e botão responsivo.</p>
+
+<p align="center">
+  <img src="public/images/site/inicio-cards-mobile.png" alt="Página inicial mobile" width="250">
+</p>
+
+<h3>2. Cards Individuais</h3>
 <p>Cada item aparece em seu próprio card, mostrando total, média, mínimo, máximo e total vendido.</p>
 
-<h3>2. Card de Total Geral</h3>
+<p align="center">
+  <img src="public/images/site/cards-mobile.png" alt="Cards mobile" width="250">
+</p>
+
+<h3>3. Card de Total Geral</h3>
 <p>Inclui:</p>
 <ul>
   <li>Total geral de itens: 1.067</li>
   <li>Total vendido: ¥27.229.600</li>
 </ul>
 
-<h3>3. Hero otimizado</h3>
-<p>Versão adaptada com sprite menor, título ajustado e botão responsivo.</p>
-
-<h3 align="center">Print do Hero (Mobile)</h3>
-<img src="public/images/site/inicio-cards-mobile.png" alt="Print da tabela" width="250">
-
-<h3 align="center">Prints dos Cards (Mobile)</h3>
-<img src="public/images/site/cards-mobile.png" alt="Print da tabela" width="250">
-
-<h3 align="center">Print do Total Geral (Mobile)</h3>
-<img src="public/images/site/fim-cards-mobile.png" alt="Print da tabela" width="250">
+<p align="center">
+  <img src="public/images/site/fim-cards-mobile.png" alt="Card total geral mobile" width="250">
+</p>
 
 <hr>
 
+<h2 align="center">Dados do Evento</h2>
 
 <div align="center">
-<h2>Dados do Evento</h2>
 
 <table>
   <tr>
@@ -143,7 +151,6 @@
 
 </div>
 
-
 <hr>
 
 <h2>Tecnologias Utilizadas</h2>
@@ -168,7 +175,6 @@
   <li><a href="https://forums.pokemmo.com/index.php?/topic/192933-changelog-halloween-2025" target="_blank" rel="noopener noreferrer">Fórum do Evento</a></li>
   <li><a href="https://pokemmo.com/downloads/" target="_blank" rel="noopener noreferrer">Download oficial do PokeMMO</a></li>
 </ul>
-
 
 <hr>
 
